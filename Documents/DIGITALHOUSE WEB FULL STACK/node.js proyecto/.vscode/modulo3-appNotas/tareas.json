@@ -1,0 +1,15 @@
+[
+{
+    "titulo": "Terminar el ejercicio de la calculadora",
+    "estado": "terminado"
+    
+},
+{ "titulo": "shoot myself",
+    "estado": "pendiente"
+
+},
+{
+    "titulo": "replace my soul with caffeine",
+    "estado": "in progress"
+}
+]
